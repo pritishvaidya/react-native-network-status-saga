@@ -1,0 +1,34 @@
+{
+  "name": "react-native-network-status-saga",
+  "version": "1.0.0",
+  "description": "Redux Saga for Network Status",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint . --ignore-path .gitignore --ext .js --ext .jsx",
+    "fix-lint": "yarn lint -- --fix",
+    "prepush": "npm run lint && npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pritishvaidya/react-native-network-status-saga"
+  },
+  "keywords": [
+    "react-native",
+    "redux",
+    "redux-saga",
+    "network",
+    "network-status",
+    "netinfo"
+  ],
+  "author": "Pritish Vaidya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pritishvaidya/react-native-network-status-saga/issues"
+  },
+  "homepage": "https://github.com/pritishvaidya/react-native-network-status-saga#readme",
+  "peerDependencies": {
+    "react-native": "^0.57.1",
+    "redux-saga": "^0.16.0"
+  }
+}

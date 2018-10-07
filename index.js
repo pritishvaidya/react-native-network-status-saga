@@ -1,4 +1,4 @@
-import { AppState, NetInfo, AsyncStorage } from "react-native";
+import { NetInfo, AsyncStorage } from "react-native";
 
 import { eventChannel, delay } from "redux-saga"
 import { call, put, race, take } from "redux-saga/effects"

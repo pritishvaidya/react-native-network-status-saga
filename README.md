@@ -5,17 +5,27 @@ A simple `redux-saga` solution for Network Status using the `NetInfo` api of `re
 
 ## Getting Started
 
-- [Installation](#installation)
-- [Basic Usage](#basic-usage)
-- [Advanced Usage](#advanced-usage)
-- [Properties](#properties)
-- [Contribution](#contribution)
-- [Questions](#questions)
+- [Redux Saga for Network Status](#Redux-Saga-for-Network-Status)
+  - [Getting Started](#Getting-Started)
+    - [Installation](#Installation)
+    - [Basic Usage](#Basic-Usage)
+    - [Advanced Usage](#Advanced-Usage)
+    - [Properties](#Properties)
+  - [Contribution](#Contribution)
+  - [Questions](#Questions)
 
 ### Installation
 
+If you are running RN version > 0.58 run:
+
 ```bash
-$ npm i react-native-network-status-saga --save
+$ npm i react-native-network-status-saga@1.1.0 --save
+```
+
+on older versions, run:
+
+```bash
+$ npm i react-native-network-status-saga@1.0.0 --save
 ```
 
 ### Basic Usage

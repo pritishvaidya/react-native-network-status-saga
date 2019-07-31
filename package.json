@@ -28,8 +28,8 @@
   },
   "homepage": "https://github.com/pritishvaidya/react-native-network-status-saga#readme",
   "peerDependencies": {
-    "react-native": "^0.57.1",
-    "redux-saga": "^0.16.0",
+    "react-native": "^0.60.4",
+    "redux-saga": "^1.0.5",
     "@react-native-community/async-storage": "^1.6.1",
     "@react-native-community/netinfo": "^4.1.3"
   },

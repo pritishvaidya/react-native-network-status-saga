@@ -19,6 +19,8 @@ A simple `redux-saga` solution for Network Status using the `NetInfo` api of `re
 If you are running RN version > 0.58 run:
 
 ```bash
+$ npm i @react-native-community/async-storage --save
+$ npm i @react-native-community/netinfo --save
 $ npm i react-native-network-status-saga@1.1.0 --save
 ```
 

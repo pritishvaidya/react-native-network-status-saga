@@ -5,18 +5,18 @@ A simple `redux-saga` solution for Network Status using the `NetInfo` api of `re
 
 ## Getting Started
 
-- [Redux Saga for Network Status](#Redux-Saga-for-Network-Status)
-  - [Getting Started](#Getting-Started)
-    - [Installation](#Installation)
-    - [Basic Usage](#Basic-Usage)
-    - [Advanced Usage](#Advanced-Usage)
-    - [Properties](#Properties)
-  - [Contribution](#Contribution)
-  - [Questions](#Questions)
+- [Redux Saga for Network Status](#redux-saga-for-network-status)
+  - [Getting Started](#getting-started)
+    - [Installation](#installation)
+    - [Basic Usage](#basic-usage)
+    - [Advanced Usage](#advanced-usage)
+    - [Properties](#properties)
+  - [Contribution](#contribution)
+  - [Questions](#questions)
 
 ### Installation
 
-If you are running RN version > 0.58 run:
+If you are running RN version >= 0.50 run:
 
 ```bash
 $ npm i @react-native-community/async-storage --save
